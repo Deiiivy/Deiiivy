@@ -14,6 +14,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deivypr28@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivy-programmer)
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch)](https://skillicons.dev)
 
 
