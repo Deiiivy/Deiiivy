@@ -16,6 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch)](https://skillicons.dev)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deiiivy&layout=compact&theme=dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deiiivy&show_icons=true&theme=radical)
