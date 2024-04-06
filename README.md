@@ -17,10 +17,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,vim,js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch" />
+    <img src="https://skillicons.dev/icons?i=git,docker,vim,js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch.mongodb" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,dotnet,express,linux,mongodb,mysql,neovim,nodejs,tailwind,vscode,cs,arch)](https://skillicons.dev)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deiiivy&layout=compact&theme=dark)
