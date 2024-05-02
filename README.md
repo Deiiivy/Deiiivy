@@ -1,5 +1,4 @@
-
-<div align="center">![Alt text](<github-header-image (1).png>)</div>
+![Alt text](<github-header-image (1).png>)
 <h1 align="center">Hi 👋, I'm Deivy Patiño</h1>
 <h3 align="center">Front-End Developer with a creative touch and solid skills.</h3>
 <p align="center">https://6611939a46501d182e39b76b--stunning-taffy-589b44.netlify.app/</p>
