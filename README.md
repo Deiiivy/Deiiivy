@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc1bXByMDV5OGYzeWtxb2p0Yzk1a3F2bnljejZxejBydXo3dXB6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="200" /></div>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deivypr28@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivy-programmer)
