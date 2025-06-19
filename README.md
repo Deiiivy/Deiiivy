@@ -1,6 +1,6 @@
 ![Alt text](<github-header-image (1).png>)
 <h1 align="center">Hi 👋, I'm Deivy Patiño</h1>
-<h3 align="center">Front-End Developer with a creative touch and solid skills. </h3>
+<h3 align="center">Full-Stack Developer with a creative touch and solid skills. </h3>
 <p align="center" target="_blank">PORTFOLIO: https://portafolio-deivy.netlify.app//</p>
 
 <div id="header" align="center">
